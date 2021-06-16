@@ -43,8 +43,8 @@ Baseando no Data Warehouse, faça **explorações de dados com Python**,gerando 
 - [x] Popular o banco 
 ### Modelagem multidimensional
 - [x] Modelar o banco 
-- [ ] Criar o banco 
-- [ ] Processar dados do banco relacional
+- [x] Criar o banco 
+- [x] Processar dados do banco relacional
 ### Exploração dos dados com python
 - [ ] Jupyter Notebook com a análise inicial
 ### Análise dos dados com python
