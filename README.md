@@ -30,21 +30,21 @@ Baseando no Data Warehouse, faça **explorações de dados com Python**,gerando 
 ## Time Datawizards
 
 [Abílio Nogueira](https://github.com/AbilioNB)<br>
-[Alana Vieira](https://github.com/AbilioNB)<br>
-[Alano Menezes](https://github.com/AbilioNB)<br>
-[Antônio Carlos](https://github.com/AbilioNB)<br>
-[Breno Jones](https://github.com/AbilioNB)<br>
-[Bruno Ferreira](https://github.com/AbilioNB)
+[Alana Vieira](https://github.com/alanav120)<br>
+[Alano Menezes](https://github.com/alanomenezes)<br>
+[Antônio Carlos](https://github.com/Sandoque)<br>
+[Breno Jones](https://github.com/bjagrelliB)<br>
+[Bruno Ferreira](github.com/brunof23)
 
 ## Tarefas do projeto
-### Modelagem dimensional 
+### Modelagem relacional 
 - [x] Modelar o banco 
 - [x] Criar o banco 
-- [ ] Popular o banco 
+- [x] Popular o banco 
 ### Modelagem multidimensional
 - [x] Modelar o banco 
 - [ ] Criar o banco 
-- [ ] Processar dados do banco dimensional 
+- [ ] Processar dados do banco relacional
 ### Exploração dos dados com python
 - [ ] Jupyter Notebook com a análise inicial
 ### Análise dos dados com python
