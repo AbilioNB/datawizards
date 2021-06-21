@@ -51,6 +51,18 @@ Baseando no Data Warehouse, faça **explorações de dados com Python**,gerando 
 ### Análise dos dados com python
 - [x] Jupyter Notebook com as informações extraídas 
 
+## Arquivos desenvolvidos 
+
+### Banco de dados transacional
+- [Código de criação do banco] 
+- [Povoamento do banco]
+
+### Banco de dados multidimensional
+- [Código de criação do DW]
+- [Código de criação da dimensão de Datas]
+- [Dicionário de dados do DW]
+### [Notebook Python] 
+
 -----------------------------------------------------------
 
 ## TABELAS DO DATA WAREHOUSE
