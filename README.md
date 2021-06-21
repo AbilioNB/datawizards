@@ -54,12 +54,12 @@ Baseando no Data Warehouse, faça **explorações de dados com Python**,gerando 
 ## Arquivos desenvolvidos 
 
 ### Banco de dados transacional
-- [Código de criação do banco] (https://github.com/AbilioNB/datawizards/blob/main/Scripts%20transacional/FIA_DDL.sql) 
-- [Povoamento do banco] (https://github.com/AbilioNB/datawizards/blob/main/Scripts%20transacional/FIA_DML.SQL)
+- [Código de criação do banco](https://github.com/AbilioNB/datawizards/blob/main/Scripts%20transacional/FIA_DDL.sql) 
+- [Povoamento do banco](https://github.com/AbilioNB/datawizards/blob/main/Scripts%20transacional/FIA_DML.SQL)
 
 ### Banco de dados multidimensional
-- [Código de criação do DW] (https://github.com/AbilioNB/datawizards/blob/main/Scripts%20DW/DML_DIM_DATE.sql)
-- [Código de criação da dimensão de Datas] (https://github.com/AbilioNB/datawizards/blob/main/Scripts%20DW/DML_DIM_DATE.sql)
-- [Dicionário de dados do DW] (https://github.com/AbilioNB/datawizards/blob/main/DW/dicionario-DW.md)
-### [Notebook Python] (https://github.com/AbilioNB/datawizards/blob/main/FIA_ACCENTURE_DATAWIZARDS.ipynb)
+- [Código de criação do DW](https://github.com/AbilioNB/datawizards/blob/main/Scripts%20DW/DML_DIM_DATE.sql)
+- [Código de criação da dimensão de Datas](https://github.com/AbilioNB/datawizards/blob/main/Scripts%20DW/DML_DIM_DATE.sql)
+- [Dicionário de dados do DW](https://github.com/AbilioNB/datawizards/blob/main/DW/dicionario-DW.md)
+### [Notebook Python](https://github.com/AbilioNB/datawizards/blob/main/FIA_ACCENTURE_DATAWIZARDS.ipynb)
 
