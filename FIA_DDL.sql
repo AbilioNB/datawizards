@@ -325,4 +325,3 @@ alter table RESULTS
 alter table RESULTS
    add constraint FK_RESULTS_REFERENCE_DRIVERS foreign key (DRIVERID)
       references DRIVERS (DRIVERID);
-
