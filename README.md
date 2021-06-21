@@ -63,3 +63,5 @@ Baseando no Data Warehouse, faça **explorações de dados com Python**,gerando 
 - [Dicionário de dados do DW](https://github.com/AbilioNB/datawizards/blob/main/DW/dicionario-DW.md)
 ### [Notebook Python](https://github.com/AbilioNB/datawizards/blob/main/FIA_ACCENTURE_DATAWIZARDS.ipynb)
 
+### [Apresentação da Equipe](https://github.com/AbilioNB/datawizards/blob/main/dataWizards%20(Apresenta%C3%A7%C3%A3o).pdf)
+
